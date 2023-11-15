@@ -15,6 +15,15 @@ export default function Index() {
         <li>
           <a
             
+            href="https://remix.run/tutorials/blog"
+            rel="noreferrer"
+          >
+            15m Quickstart Blog Tutorial
+          </a>
+        </li>
+        <li>
+          <a
+            
             href="https://remix.run/tutorials/jokes"
             rel="noreferrer"
           >
